@@ -6,4 +6,5 @@ int main(){
 	cin >> a;
 	cout << "¬ведите b:";
 	cin >> b;
+	cout << a + b;
 }
