@@ -2,9 +2,10 @@
 
 int main(){
 	int a, b;
-	cout << "Ââåäèòå a:";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ a:";
 	cin >> a;
-	cout << "Ââåäèòå b:";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ b:";
 	cin >> b;
 	cout << a + b;
+	cout << a - b;
 }
