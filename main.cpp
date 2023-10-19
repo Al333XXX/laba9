@@ -1,10 +1,10 @@
 #include "std.h"
-
+using namespace std;
 int main(){
 	int a, b;
-	cout << "Ââåäèòå a:";
+	cout << "Enter a:";
 	cin >> a;
-	cout << "Ââåäèòå b:";
+	cout << "Enter b:";
 	cin >> b;
 	cout << a + b;
 	cout << a - b ;
