@@ -7,5 +7,5 @@ int main(){
 	cout << "Ââåäèòå b:";
 	cin >> b;
 	cout << a + b;
-	cout << a - b;
+	cout << a - b ;
 }
